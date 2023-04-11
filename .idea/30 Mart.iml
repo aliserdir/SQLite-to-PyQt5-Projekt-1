@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="C:\Users\ali\anaconda3 (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="hesap makinesi" />
+    <orderEntry type="module" module-name="aliss" />
+    <orderEntry type="module" module-name="Section 6 Product Management App" />
+    <orderEntry type="module" module-name="Python_GUI_Programming_Using_PyQt5" />
+    <orderEntry type="module" module-name="database-with-python-main" />
+  </component>
+</module>

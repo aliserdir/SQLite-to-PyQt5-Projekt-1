@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/30 Mart.iml" filepath="$PROJECT_DIR$/.idea/30 Mart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python_GUI_Programming_Using_PyQt5-master/.idea/Python_GUI_Programming_Using_PyQt5.iml" filepath="$PROJECT_DIR$/../../Python_GUI_Programming_Using_PyQt5-master/.idea/Python_GUI_Programming_Using_PyQt5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python_GUI_Programming_Using_PyQt5-master/Section 6 Product Management App/.idea/Section 6 Product Management App.iml" filepath="$PROJECT_DIR$/../../Python_GUI_Programming_Using_PyQt5-master/Section 6 Product Management App/.idea/Section 6 Product Management App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../aliss/.idea/aliss.iml" filepath="$PROJECT_DIR$/../../aliss/.idea/aliss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../database-with-python-main/.idea/database-with-python-main.iml" filepath="$PROJECT_DIR$/../../database-with-python-main/.idea/database-with-python-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hesap makinesi/.idea/hesap makinesi.iml" filepath="$PROJECT_DIR$/../../hesap makinesi/.idea/hesap makinesi.iml" />
+    </modules>
+  </component>
+</project>
